@@ -12,3 +12,11 @@ canvas {
   background-color: #222;
   margin-top: 20px;
 }
+.art-img {
+  width: 70%;
+  max-width: 50px; 
+  height: auto;
+  display: block;
+  margin: 20px auto;
+  border-radius: 8px;
+}
