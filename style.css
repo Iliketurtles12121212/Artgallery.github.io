@@ -13,7 +13,7 @@ canvas {
   margin-top: 20px;
 }
 .art-img {
-  width: 70%;
+  width: 100%;
   max-width: 200px; 
   height: auto;
   display: block;
